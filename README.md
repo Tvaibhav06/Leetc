@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tvaibhav06/Leetc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tvaibhav06/Leetc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tvaibhav06/Leetc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0783-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tvaibhav06/Leetc/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tvaibhav06/Leetc/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
