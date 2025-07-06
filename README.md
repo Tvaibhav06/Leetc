@@ -48,8 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tvaibhav06/Leetc/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Tvaibhav06/Leetc/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tvaibhav06/Leetc/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Tvaibhav06/Leetc/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
