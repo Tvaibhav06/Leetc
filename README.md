@@ -49,9 +49,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tvaibhav06/Leetc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Tvaibhav06/Leetc/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tvaibhav06/Leetc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Tvaibhav06/Leetc/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
