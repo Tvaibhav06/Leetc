@@ -4,8 +4,9 @@ class Solution {
         int cnt=0;
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='('){
-                if(cnt>0)str.append('(');
-                cnt++;
+                 cnt++;
+                if(cnt>1)str.append('(');
+               
             }
             else if(s.charAt(i)==')'){
                  cnt--;
