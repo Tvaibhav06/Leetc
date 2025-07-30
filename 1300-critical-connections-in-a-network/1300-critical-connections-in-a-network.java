@@ -2,22 +2,20 @@ class Solution {
     public int timer=1;
     public void dfs(int node,int parent,List<List<Integer>> adj,List<List<Integer>> bridges,
      int[] vis,int[] tin,int[] low){
-        vis[node]=1;
-        tin[node]=low[node]=timer;
-        timer++;
-        for(Integer it:adj.get(node)){
-            if(it==parent)continue;
-            if(vis[it]==0){
-                dfs(it,node,adj,bridges,vis,tin,low);
-                low[node]=Math.min(low[node],low[it]);
-                if(low[it]>tin[node]){
-                    bridges.add(Arrays.asList(it,node));
-                }
-            }
-            else{
-                low[node]=Math.min(low[node],low[it]);
+       vis[node]=1;
+       tin[node]=low[node]=timer;
+       timer++;
+       for(int it:adj.get(node)){
+        if(it==parent)continue;
+        if(vis[it]==0){
+            dfs(it,node,adj,bridges,vis,tin,low);
+            low[node]=Math.min(low[node],low[it]);
+            if(tin[node]<low[it]){
+                bridges.add(Arrays.asList(it,node));
             }
         }
+        else low[node]=Math.min(low[node],low[it]);
+       }
      }
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
         List<List<Integer>> adj=new ArrayList<>();
