@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tvaibhav06/Leetc/tree/master/0070-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tvaibhav06/Leetc/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Tvaibhav06/Leetc/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tvaibhav06/Leetc/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tvaibhav06/Leetc/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
