@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Tvaibhav06/Leetc/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tvaibhav06/Leetc/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Tvaibhav06/Leetc/tree/master/0198-house-robber) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tvaibhav06/Leetc/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Tvaibhav06/Leetc/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
