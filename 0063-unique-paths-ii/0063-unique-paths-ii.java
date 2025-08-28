@@ -21,7 +21,9 @@ class Solution {
                     temp[j] = up + left;
                 }
             }
-            System.arraycopy(temp, 0, arr, 0, n);
+            for (int jk = 0; jk < n; jk++) {
+                arr[jk] = temp[jk];
+            }
         }
         return arr[n - 1];
     }
