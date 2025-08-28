@@ -2,20 +2,27 @@ class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
-        if (obstacleGrid[0][0] == 1) return 0;
-        int[][] dp = new int[m][n];
-        dp[0][0] = 1;
+        if (obstacleGrid[0][0] == 1)
+            return 0;
+        int[] arr = new int[n];
         for (int i = 0; i < m; i++) {
+            int[] temp = new int[n];
             for (int j = 0; j < n; j++) {
+                int up = 0, left = 0;
                 if (obstacleGrid[i][j] != 0)
-                    dp[i][j] = 0;
-                else if (!(i == 0 && j == 0)) {
-                    int fromTop = (i > 0) ? dp[i - 1][j] : 0;
-                    int fromLeft = (j > 0) ? dp[i][j - 1] : 0;
-                    dp[i][j] = fromTop + fromLeft;
+                    temp[j] = 0;
+                else if (i == 0 && j == 0)
+                    temp[j] = 1;
+                else {
+                    if (i > 0)
+                        up = arr[j];
+                    if (j > 0)
+                        left = temp[j - 1];
+                    temp[j] = up + left;
                 }
             }
+            System.arraycopy(temp, 0, arr, 0, n);
         }
-        return dp[m - 1][n - 1];
+        return arr[n - 1];
     }
 }
