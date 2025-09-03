@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tvaibhav06/Leetc/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Tvaibhav06/Leetc/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0039-combination-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
