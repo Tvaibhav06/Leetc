@@ -16,9 +16,7 @@ class Solution {
                      temp[j] = grid[i][j] + Math.min(left, up);
                 }
             }
-            for (int jk = 0; jk < n; jk++) {
-                prev[jk] = temp[jk];
-            }
+            prev=temp;
         }
         return prev[n-1];
     }
