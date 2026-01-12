@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tvaibhav06/Leetc/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Tvaibhav06/Leetc/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tvaibhav06/Leetc/tree/master/0820-find-eventual-safe-states) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Tvaibhav06/Leetc/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tvaibhav06/Leetc/tree/master/0820-find-eventual-safe-states) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/Tvaibhav06/Leetc/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tvaibhav06/Leetc/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Tvaibhav06/Leetc/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tvaibhav06/Leetc/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/Tvaibhav06/Leetc/tree/master/1300-critical-connections-in-a-network) |
