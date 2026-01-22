@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Tvaibhav06/Leetc/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tvaibhav06/Leetc/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Tvaibhav06/Leetc/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Tvaibhav06/Leetc/tree/master/0994-rotting-oranges) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Tvaibhav06/Leetc/tree/master/0994-rotting-oranges) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Tvaibhav06/Leetc/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tvaibhav06/Leetc/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tvaibhav06/Leetc/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Tvaibhav06/Leetc/tree/master/1559-cherry-pickup-ii) |
