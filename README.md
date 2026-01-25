@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tvaibhav06/Leetc/tree/master/0820-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Tvaibhav06/Leetc/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tvaibhav06/Leetc/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Tvaibhav06/Leetc/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tvaibhav06/Leetc/tree/master/0820-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Tvaibhav06/Leetc/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tvaibhav06/Leetc/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Tree
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Tvaibhav06/Leetc/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 | [1559-cherry-pickup-ii](https://github.com/Tvaibhav06/Leetc/tree/master/1559-cherry-pickup-ii) |
 ## Two Pointers
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Tvaibhav06/Leetc/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1073-number-of-enclaves) |
 | [1559-cherry-pickup-ii](https://github.com/Tvaibhav06/Leetc/tree/master/1559-cherry-pickup-ii) |
 ## Graph
@@ -199,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Tvaibhav06/Leetc/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
