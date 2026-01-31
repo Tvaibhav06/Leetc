@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Tvaibhav06/Leetc/tree/master/0101-symmetric-tree) |
+| [0127-word-ladder](https://github.com/Tvaibhav06/Leetc/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Tvaibhav06/Leetc/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/Tvaibhav06/Leetc/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Tvaibhav06/Leetc/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Tvaibhav06/Leetc/tree/master/0127-word-ladder) |
 | [1078-remove-outermost-parentheses](https://github.com/Tvaibhav06/Leetc/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
