@@ -5,7 +5,9 @@ class Solution {
             if(color[i]==-1){
                 if(DFS(adj,i,1-col,color)==false)return false;
             }
-            else if(color[i]==col)return false;
+            else if(color[i]==col){
+                return false;
+            }
         }
         return true;
     }
