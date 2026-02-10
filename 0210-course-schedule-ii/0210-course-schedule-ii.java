@@ -6,8 +6,8 @@ class Solution {
             arr.add(new ArrayList<>());
         }
         for (int i = 0; i < prerequisites.length; i++) {
-            arr.get(prerequisites[i][0]).add(prerequisites[i][1]);
-            indegree[prerequisites[i][1]]++;
+            arr.get(prerequisites[i][1]).add(prerequisites[i][0]);
+            indegree[prerequisites[i][0]]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
@@ -30,7 +30,6 @@ class Solution {
             return trash;
         }
         int[] ans = new int[numCourses];
-        Collections.reverse(order);
         for (int i = 0; i < numCourses; i++) {
             ans[i] = order.get(i);
         }
