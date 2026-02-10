@@ -1,43 +1,40 @@
 class Solution {
-    private boolean DFS(ArrayList<ArrayList<Integer>> adj, int[] visited, int node, List<Integer> ans) {
-        visited[node] = 1;
-        for (int i = 0; i < adj.get(node).size(); i++) {
-            if (visited[adj.get(node).get(i)] == 0) {
-                if (DFS(adj, visited, adj.get(node).get(i), ans))
-                    return true;
-            } else if (visited[adj.get(node).get(i)] == 1) {
-                return true;
-            }
-        }
-        visited[node] = 2;
-        ans.add(node);
-        return false;
-    }
-
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> arr = new ArrayList<>();
+        int[] indegree = new int[numCourses];
         for (int i = 0; i < numCourses; i++) {
-            adj.add(new ArrayList<Integer>());
+            arr.add(new ArrayList<>());
         }
-        for (int[] i : prerequisites) {
-            adj.get(i[1]).add(i[0]);
+        for (int i = 0; i < prerequisites.length; i++) {
+            arr.get(prerequisites[i][0]).add(prerequisites[i][1]);
+            indegree[prerequisites[i][1]]++;
         }
-        int[] visited = new int[numCourses];
-        int[] array = new int[numCourses];
-        List<Integer> ans = new ArrayList<>();
-        for (int i = 0; i < visited.length; i++) {
-            if (visited[i] == 0) {
-                if (DFS(adj, visited, i, ans)) {
-                    int[] arr = {};
-                    return arr;
-                }
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0)
+                q.add(i);
+        }
+        ArrayList<Integer> order = new ArrayList<>();
+        while (!q.isEmpty()) {
+            int tip = q.peek();
+            q.remove();
+            for (int it : arr.get(tip)) {
+                indegree[it]--;
+                if (indegree[it] == 0)
+                    q.add(it);
             }
+            order.add(tip);
         }
-         Collections.reverse(ans);
-        for(int i=0;i<ans.size();i++){
-            array[i]=ans.get(i);
+        if (order.size() != numCourses) {
+            int[] trash = {};
+            return trash;
         }
-       
-        return array;
+        int[] ans = new int[numCourses];
+        Collections.reverse(order);
+        for (int i = 0; i < numCourses; i++) {
+            ans[i] = order.get(i);
+        }
+
+        return ans;
     }
 }
