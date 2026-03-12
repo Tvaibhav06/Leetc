@@ -1,16 +1,22 @@
 class Solution {
-    public int rob(int[] nums) {
+    public int jump(int[] nums,int i,int[] dp){
         int n=nums.length;
-        int prev1=nums[0];
-        int prev2=0;
-        for(int i=1;i<n;i++){
-            int pick=nums[i]+prev2;
-            int skip=prev1;
-            int curr=Math.max(skip,pick);
-
-            prev2=prev1;
-            prev1=curr;
+        if(i>=n-2)return nums[i];
+        if(dp[i]!=-1)return dp[i];
+        int sum=nums[i],max=Integer.MIN_VALUE;
+        for(int j=i+2;j<n;j++){
+            int jump=jump(nums,j,dp);
+            max=Math.max(max,jump);
         }
-        return prev1;
+        sum+=max;
+        dp[i]=sum;
+        return dp[i];
+    }
+    public int rob(int[] nums) {
+       int n=nums.length;
+       int[] dp=new int[n];
+       Arrays.fill(dp,-1);
+       if(n==1)return nums[0];
+       return Math.max(jump(nums,0,dp),jump(nums,1,dp));
     }
 }
