@@ -29,19 +29,19 @@ class Solution {
             sum += nums[i];
         }
         if (sum % 2 == 1)return false;
-        boolean[][] dp = new boolean[n][sum/2 + 1];
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = true;
-        }
-        if (nums[0] <= sum/2)dp[0][nums[0]] = true;
+        boolean[] prev = new boolean[sum/2 + 1];
+        prev[0]=true;
+        if (nums[0] <= sum/2)prev[nums[0]] = true;
         for (int i = 1; i < n; i++) {
+            boolean[] curr = new boolean[sum/2 + 1];
             for (int j = 1; j <= sum/2; j++) {
                 boolean t1 = false;
-                if (j >= nums[i])t1=dp[i-1][j-nums[i]];
-                boolean t2 = dp[i-1][j];
-                dp[i][j]=t1||t2;
+                if (j >= nums[i])t1=prev[j-nums[i]];
+                boolean t2 = prev[j];
+                curr[j]=t1||t2;
             }
+            prev=curr;
         }
-        return dp[n-1][sum/2];
+        return prev[sum/2];
     }
 }
