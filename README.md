@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Tvaibhav06/Leetc/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Tvaibhav06/Leetc/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Tvaibhav06/Leetc/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tvaibhav06/Leetc/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Tvaibhav06/Leetc/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Tvaibhav06/Leetc/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tvaibhav06/Leetc/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Tvaibhav06/Leetc/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Tvaibhav06/Leetc/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
